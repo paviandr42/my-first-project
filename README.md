@@ -4,3 +4,4 @@ roof, wagon, legibly, skin, salvation,
 tree, list, array
 put - класть, put out - тушить, put on - надеть
 hurry up - торопиться
+research, spoonfuls, go, went, gone, sensitive, open
